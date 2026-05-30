@@ -36,4 +36,4 @@ We reserve the right, without notice and at our sole discretion, to terminate or
 We reserve the right to modify these Terms at any time. Your continued use of the Bot after any modifications constitute your acceptance of the updated Terms.
 
 ### 7. Contact Information
-For questions or support regarding the Bot or these Terms, please contact `[Your Contact Email or Discord Tag]`.
+For questions or support regarding the Bot or these Terms, please contact `@juniortonystark`.
